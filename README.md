@@ -1,3 +1,4 @@
 # Vaish
 This is my first ggit repository
-Author Vaishnavi Pathak
+<br>
+Author - Vaishnavi Pathak
